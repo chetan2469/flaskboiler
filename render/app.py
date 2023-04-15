@@ -6,5 +6,5 @@ def hello_world():
     return 'Hello, World!'
 
 @app.route('/chedo')
-def hello_world():
+def hello_chedo():
     return 'Welcome to chedo Tech'
